@@ -6,4 +6,4 @@ https://www.kaggle.com/lazyjustin/pubgplayerstats
 
 I worked with [Tat Cheong "Ryuuko" Chu](https://github.com/Ryuuko) throughout the whole project. Without him, I would not be able to have this research project done.
 
-(Slides are in German.)
+(Slides are in German)
